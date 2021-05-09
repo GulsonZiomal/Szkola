@@ -1,0 +1,25 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body
+{
+    background-color: #a7a54d;
+}
+#myCanvas
+{
+    width: 1200px;
+    height: 800px;
+    background-color: #a7a599;
+}
+.place
+{
+    border: solid black 1px;
+    width: 100px;
+    height: 37.5px;
+    margin-top: 45px;
+    background-color: #350000;
+    position: absolute;
+}
